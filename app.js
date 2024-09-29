@@ -1,4 +1,5 @@
-// 1# 41
+// N1 
+    //  .41
 
 // {
 //     const books = [
@@ -28,7 +29,8 @@
 
 
 
-// 2# 42
+// N2
+//  .42
 
 // const strings = ["text", "world", "laptop"];
 
@@ -41,7 +43,9 @@
 
 
 
-// 3# 43
+// N3 
+// .43
+
 // {
 //     function multiplyValues(obj, n) {
 //         const res = {};
@@ -61,7 +65,8 @@
       
 // }
 
-// 4# 44
+// N4 
+// .44
 // {
 //     function getLevel(n) {
 //         const result = [];
@@ -79,7 +84,8 @@
 
 
 
-// 5# 45
+// N5 
+// .45
 // {
 //     const animals = ['dog', 'chicken', 'cat', 'dog', 'chicken', 'chicken', 'rabbit'];
 
@@ -93,7 +99,8 @@
 // }
 
 
-// 6# 46
+// N6 
+// .46
 
 // {
 //     const number = [1,2,3,4,5,6];
@@ -104,7 +111,8 @@
 // }
 
 
-// 7# 47
+// N7 
+// .47
 
 // {
 //     const numbers = [1, -4, 12, 0, -3, 9, -15];
@@ -117,7 +125,8 @@
 
 // }
 
-// 8# 48
+// N8 
+// .48
 
 // {
 //     const name = 'Beorge Daymond Eichard Qartin';
@@ -132,7 +141,8 @@
 // }
 
 
-// 9# 49
+// N9 
+// .49
 
 // {
 //     const people = [
@@ -152,7 +162,8 @@
 // }
 
 
-// 10 50
+// N10 
+// .50
 
 // {
 //     var singleNumber = function(nums) {
